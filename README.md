@@ -1,9 +1,5 @@
 # 👋 Hello there, I'm Vishwas Prajapati  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Vishwas1523&label=Profile%20views&color=dc143c&style=flat" alt="Profile Views"/>
-</p>
-
 💡 **About Me**  
 - 🔭 Currently working on: **Embedded Systems**  
 - 🌱 Learning: **8051 MCU**  
