@@ -1,4 +1,6 @@
-# 👋 Hello there, I'm Vishwas Prajapati  
+# Hello there, I'm Vishwas Prajapati  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&width=600&lines=Embedded+Systems;C+%7C+C%2B%2B+Programmer;Trying+To+Do+Better)](https://git.io/typing-svg)
 
 💡 **About Me**  
 - 🔭 Currently working on: **Embedded Systems**  
@@ -36,4 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishwas1523&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
+
+[![Vishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishwas1523&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
