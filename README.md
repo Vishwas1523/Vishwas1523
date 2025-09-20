@@ -4,7 +4,7 @@
 
 💡 **About Me**  
 - 🔭 Currently working on: **Embedded Systems**  
-- 🌱 Learning: **8051 MCU**  
+- 🌱 Learning: **STM32**  
 - 🤝 Looking for help with: **Embedded Systems projects**  
 - 💬 Ask me about: **OOP, Digital Electronics, Computer Architecture, C programming**  
 - 📚 Libraries I use: **STL**  
