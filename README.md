@@ -7,7 +7,7 @@
 - 🌱 Learning: **STM32**  
 - 🤝 Looking for help with: **Embedded Systems projects**  
 - 💬 Ask me about: **OOP, Digital Electronics, Computer Architecture, C programming**  
-- 📚 Libraries I use: **STL**  
+- 📚 Libraries I use: **STL, HAL**  
 - 📧 How to reach me: **vishwas1523@gmail.com**  
 - 🙋‍♂️ Pronouns: **He/Him**  
 
